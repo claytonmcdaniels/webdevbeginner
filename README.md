@@ -1,2 +1,2 @@
 # webdevbeginner
-HTML CSS as a beginner
+HTML CSS projects as a beginner
